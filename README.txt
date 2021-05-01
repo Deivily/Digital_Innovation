@@ -1,1 +1,0 @@
-Repositório destinado a armazenar as tarefas referentes aos bootcamps que participei/participo na Digital Innovation One.
